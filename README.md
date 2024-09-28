@@ -1,2 +1,2 @@
-# FlorBotta
-Personal webpage for Florencia Botta
+$ mkdir FlorBotta
+$ touch inicio.html
